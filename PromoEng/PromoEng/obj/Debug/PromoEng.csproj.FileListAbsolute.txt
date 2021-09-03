@@ -1,0 +1,7 @@
+C:\Users\Pujan\projects\PromoEngine\PromoEng\PromoEng\bin\Debug\PromoEng.exe.config
+C:\Users\Pujan\projects\PromoEngine\PromoEng\PromoEng\bin\Debug\PromoEng.exe
+C:\Users\Pujan\projects\PromoEngine\PromoEng\PromoEng\bin\Debug\PromoEng.pdb
+C:\Users\Pujan\projects\PromoEngine\PromoEng\PromoEng\obj\Debug\PromoEng.csprojAssemblyReference.cache
+C:\Users\Pujan\projects\PromoEngine\PromoEng\PromoEng\obj\Debug\PromoEng.csproj.CoreCompileInputs.cache
+C:\Users\Pujan\projects\PromoEngine\PromoEng\PromoEng\obj\Debug\PromoEng.exe
+C:\Users\Pujan\projects\PromoEngine\PromoEng\PromoEng\obj\Debug\PromoEng.pdb
